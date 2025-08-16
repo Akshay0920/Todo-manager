@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+    background: #FFFFFF;
+}
+
+/* Show delete icon only on hover */
+.Todo-Item:hover .trash-icon {
+    display: block;
+}
